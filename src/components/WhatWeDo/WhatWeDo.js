@@ -8,7 +8,6 @@ const WhatWeDo = () => {
     <div className="wwwd-wrapper">
       <div className="container">
         <div className="wwd-container">
-          {/*head of section*/}
           <div className="wwd-head">
             <span className="tag">What We Do</span>
             <span className="title">
